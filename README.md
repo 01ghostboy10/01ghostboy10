@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+greetings! My name is Lev, and I am a highschooler who enjoys everything about game dev :D
+Here, most of my projects are those I've submitted to hackathons, but hopefully I'll add more in the future.
+
+
+(I'll edit this README more later)
+
+
+<a href="https://heatmap.shymike.dev?id=20552&timezone=Europe%2FBelgrade&labels=true&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=20552&timezone=Europe%2FBelgrade&labels=true&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=20552&timezone=Europe%2FBelgrade&labels=true&theme=light">
+    </picture>
+</a>
